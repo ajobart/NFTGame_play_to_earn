@@ -40,7 +40,7 @@ You can copy/paste to try it on Remix.
 
 ### The three types of factions
 
-**The orcs
+**The orcs**
 
 - Attack 20
 - Defense 15
