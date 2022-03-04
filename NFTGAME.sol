@@ -22,7 +22,6 @@ contract NFTGAME is ERC721, Ownable {
     mapping(uint => Character) private _characterDetails;
 
     constructor(string memory name, string memory symbol) ERC721(name, symbol) {
-        // Les différents attributs des personnages
     }
 
     function getTokenDetails(uint _tokenID) public view returns(Character memory) {
